@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task4.Game.Dimension" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Dimension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task4.Game.Position" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task4.Game.Rotation2D" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Rotation2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task4.Game.AI" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\AI.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Bear" Collapsed="true">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Bear.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Bonus" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.BonusEffects" Collapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\BonusEffects.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Cherry" Collapsed="true">
+    <Position X="14" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Cherry.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.ClawsOfDeath" Collapsed="true">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\ClawsOfDeath.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Collideable" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Collideable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.GameObject" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.GameRulesSystem" Collapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Game\GameRulesSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Level" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Level.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Monster" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Monster.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Moveable" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Moveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Obstacle" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Physics" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Physics.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Player" Collapsed="true">
+    <Position X="14" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Player.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Renderable" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Game\Renderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Rock" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Rock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Scene" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Tangible" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAgIAgAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Game\Tangible.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Texture" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Tree" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task4.Game.Wolf" Collapsed="true">
+    <Position X="7.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Wolf.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
